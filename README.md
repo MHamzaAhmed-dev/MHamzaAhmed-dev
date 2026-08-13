@@ -98,9 +98,9 @@
 
 <div align="center">
 
-## ✦ Top Contributions
+## ✦ Trophy Case
 
-<img src="https://github-contributor-stats.vercel.app/api?username=MHamzaAhmed-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=MHamzaAhmed-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=2" />
 
 </div>
 
