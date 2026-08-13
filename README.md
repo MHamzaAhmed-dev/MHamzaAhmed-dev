@@ -41,94 +41,49 @@
 
 ## ✦ About Me
 
-```yaml
+
 🔭 Currently Building:  AI-powered healthcare platforms & scalable web apps
 🤝 Open To Collaborate: Open-source AI, full-stack projects, developer tools
 💡 Looking For Help:    Advanced AI engineering, cloud architecture, distributed systems
 🌱 Currently Learning:  LLMs, MLOps, System Design, Cloud-Native Tech
 💬 Ask Me About:        AI · Python · Django · Flutter · WordPress · Software Architecture
 ⚡ Fun Fact:            I turn complex ideas into practical, user-focused software
-```
 
-<br clear="right"/>
+<br clear="right"/><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/><div align="center">
+✦ Tech Arsenal
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<b>Languages & Core</b>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=py,js,cpp,html,css&theme=dark" />
 
-## ✦ Tech Arsenal
 
-<br/>
+<b>Frameworks & Backend</b>
 
-<b>Languages & Core</b><br/>
-<img src="https://skillicons.dev/icons?i=py,js,cpp,html,css&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,flutter,bootstrap,tailwind&theme=dark" />
 
-<b>Frameworks & Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask,flutter,bootstrap,tailwind&theme=dark" /><br/><br/>
 
-<b>Cloud, Data & Infra</b><br/>
-<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,supabase,sqlite,mysql&theme=dark" /><br/><br/>
+<b>Cloud, Data & Infra</b>
 
-<b>AI · Design · Tools</b><br/>
+<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,supabase,sqlite,mysql&theme=dark" />
+
+
+<b>AI · Design · Tools</b>
+
 <img src="https://skillicons.dev/icons?i=py,figma,wordpress,githubactions&theme=dark" />
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=D4AF37"/>
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=D4AF37"/>
 
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
-
-<div align="center">
-
-## ✦ GitHub Analytics
-
-<img src="https://github-readme-stats.shion.dev/api?username=MHamzaAhmed-dev&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=EAD9A0&count_private=true" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MHamzaAhmed-dev&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=EAD9A0" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=MHamzaAhmed-dev&theme=transparent&hide_border=true&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=EAD9A0&currStreakNum=EAD9A0&sideNums=EAD9A0&dates=8B8168" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHamzaAhmed-dev&theme=minimal&hide_border=true&bg_color=00000000&color=D4AF37&line=D4AF37&point=EAD9A0&area_color=D4AF37" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## ✦ Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=MHamzaAhmed-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=2" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## ✦ Contribution Snake
-
-<img src="https://raw.githubusercontent.com/MHamzaAhmed-dev/MHamzaAhmed-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>Activate via the <code>Platane/snk</code> GitHub Action on your profile repo.</sub>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
-
-<div align="center">
-
-### ✦ &nbsp; "Code is like humor. When you have to explain it, it's bad." &nbsp; ✦
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/><div align="center">
+✦ GitHub Analytics
+<img src="https://github-readme-stats.shion.dev/api?username=MHamzaAhmed-dev&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=EAD9A0&count_private=true" height="165"/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MHamzaAhmed-dev&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=EAD9A0" height="165"/><img src="https://streak-stats.demolab.com/?user=MHamzaAhmed-dev&theme=transparent&hide_border=true&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=EAD9A0&currStreakNum=EAD9A0&sideNums=EAD9A0&dates=8B8168" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=MHamzaAhmed-dev&theme=minimal&hide_border=true&bg_color=00000000&color=D4AF37&line=D4AF37&point=EAD9A0&area_color=D4AF37" width="100%"/></div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/><div align="center">
+✦   "Code is like humor. When you have to explain it, it's bad."   ✦
 <sub>— Cory House</sub>
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2b2013,50:1a1a1a,100:0a0a0a&height=130&section=footer"/>
+Thank you for visiting — let's build something exceptional. ✦
 
-**Thank you for visiting — let's build something exceptional. ✦**
-
-</div>
+</div> 
