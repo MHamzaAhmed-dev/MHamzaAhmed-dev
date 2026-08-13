@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=0a0a0a&color=10B981&label=PROFILE%20VIEWS&query=%24.count&url=https://api.countapi.xyz/hit/mhamzaahmed-dev/readme" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=MHamzaAhmed-dev&style=flat-square&color=10B981&label=PROFILE+VIEWS" alt="views"/>
 <img src="https://img.shields.io/github/followers/MHamzaAhmed-dev?style=flat-square&labelColor=0a0a0a&color=10B981&label=FOLLOWERS&logo=github&logoColor=10B981" />
 
 </div>
