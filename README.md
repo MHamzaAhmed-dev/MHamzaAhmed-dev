@@ -1,45 +1,45 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%20There!%20I'm%20Hamza%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<!-- Luxury gradient header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:1a1a1a,100:2b2013&height=230&section=header&text=HAMZA%20AHMED&fontSize=52&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descColor=EAD9A0&descSize=17" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Typing animation, gold -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI-powered+Healthcare+Platforms+%F0%9F%A9%BA;Crafting+Scalable+Web+Applications+%E2%9A%A1;Exploring+LLMs+%2C+MLOps+%26+System+Design+%F0%9F%A7%A0;Turning+Ideas+into+Real-World+Software+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=23&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI-powered+Healthcare+Platforms;Crafting+Scalable%2C+Premium+Web+Experiences;Exploring+LLMs%2C+MLOps+%26+System+Design;Turning+Ideas+into+Refined+Software" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MHamzaAhmed-dev&style=for-the-badge&color=00c9a7&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/MHamzaAhmed-dev?style=for-the-badge&color=0f2027&labelColor=00c9a7&logo=github&logoColor=white&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=0a0a0a&color=D4AF37&label=PROFILE%20VIEWS&query=%24.count&url=https://api.countapi.xyz/hit/mhamzaahmed-dev/readme" alt="views"/>
+<img src="https://img.shields.io/github/followers/MHamzaAhmed-dev?style=flat-square&labelColor=0a0a0a&color=D4AF37&label=FOLLOWERS&logo=github&logoColor=D4AF37" />
 
 </div>
 
 <br/>
 
-<!-- Socials -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+
 <div align="center">
 
-### 🌐 Let's Connect
+### ✦ &nbsp; CONNECT &nbsp; ✦
 
 <a href="https://www.instagram.com/_a.mhamza/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37" />
 </a>
 <a href="https://www.linkedin.com/in/hamza-ahmed-works" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
 </a>
 <a href="mailto:asifhamza2332@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- About section with animated icon -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/code.gif" alt="coding gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/code.gif" alt="coding gif"/>
 
-## 💫 About Me
+## ✦ About Me
 
 ```yaml
 🔭 Currently Building:  AI-powered healthcare platforms & scalable web apps
@@ -52,53 +52,45 @@
 
 <br clear="right"/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## ✦ Tech Arsenal
+
+<br/>
+
+<b>Languages & Core</b><br/>
+<img src="https://skillicons.dev/icons?i=py,js,cpp,html,css&theme=dark" /><br/><br/>
+
+<b>Frameworks & Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,flutter,bootstrap,tailwind&theme=dark" /><br/><br/>
+
+<b>Cloud, Data & Infra</b><br/>
+<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,supabase,sqlite,mysql&theme=dark" /><br/><br/>
+
+<b>AI · Design · Tools</b><br/>
+<img src="https://skillicons.dev/icons?i=py,figma,wordpress,githubactions&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=D4AF37"/>
 
 </div>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+
 <div align="center">
 
-**Languages & Core**
+## ✦ GitHub Analytics
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://github-readme-stats.shion.dev/api?username=MHamzaAhmed-dev&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=EAD9A0&count_private=true" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MHamzaAhmed-dev&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=EAD9A0" height="165"/>
 
-**Frameworks & Backend**
+<img src="https://streak-stats.demolab.com/?user=MHamzaAhmed-dev&theme=transparent&hide_border=true&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=EAD9A0&currStreakNum=EAD9A0&sideNums=EAD9A0&dates=8B8168" />
 
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Cloud, Data & Infra**
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-**AI / ML**
-
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHamzaAhmed-dev&theme=minimal&hide_border=true&bg_color=00000000&color=D4AF37&line=D4AF37&point=EAD9A0&area_color=D4AF37" width="100%"/>
 
 </div>
 
@@ -106,14 +98,9 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## ✦ Top Contributions
 
-<img src="https://github-readme-stats.shion.dev/api?username=MHamzaAhmed-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=FFFFFF&count_private=true" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MHamzaAhmed-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=FFFFFF" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=MHamzaAhmed-dev&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHamzaAhmed-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=FFFFFF" width="100%"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=MHamzaAhmed-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -121,47 +108,27 @@
 
 <div align="center">
 
-## 🏆 Top Contributions
-
-<img src="https://github-contributor-stats.vercel.app/api?username=MHamzaAhmed-dev&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-
-</div>
-
-<br/>
-
-<!-- Snake contribution animation -->
-<div align="center">
-
-## 🐍 Contribution Snake
+## ✦ Contribution Snake
 
 <img src="https://raw.githubusercontent.com/MHamzaAhmed-dev/MHamzaAhmed-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>To activate this: add the <code>Platane/snk</code> GitHub Action to your profile repo — see setup note below.</sub>
+<sub>Activate via the <code>Platane/snk</code> GitHub Action on your profile repo.</sub>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-## ✍️ Dev Quote of the Moment
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
 
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
+### ✦ &nbsp; "Code is like humor. When you have to explain it, it's bad." &nbsp; ✦
+<sub>— Cory House</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2b2013,50:1a1a1a,100:0a0a0a&height=130&section=footer"/>
 
-**Thanks for stopping by — let's build something great together! 🚀**
-
-<!-- Proudly enhanced from GPRM base ( https://gprm.itsvg.in ) -->
+**Thank you for visiting — let's build something exceptional. ✦**
 
 </div>
